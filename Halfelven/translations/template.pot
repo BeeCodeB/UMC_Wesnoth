@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2020-09-07 17:29 UTC\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [unit_type]: id=Elvish Healer, race=elf
+#: Age_of_Peasants/units/elves/Elvish_Healer.cfg:5
+msgid "female^Elvish Healer"
+msgstr ""
+
+#. [unit_type]: id=Elvish Healer, race=elf
+#: Age_of_Peasants/units/elves/Elvish_Healer.cfg:19
+msgid "Some elves are unusually close to their faerie nature, which enables them to control magic consciously. On the battlefield, they use their skills to heal wounds and summon plants to their aid."
+msgstr ""
+
+#. [unit_type]: id=Elvish Horseman, race=elf
+#: Age_of_Peasants/units/elves/Elvish_Horseman.cfg:4
+msgid "Elvish Horseman"
+msgstr ""
+
+#. [unit_type]: id=Elvish Horseman, race=elf
+#: Age_of_Peasants/units/elves/Elvish_Horseman.cfg:21
+msgid "The true skill of elvish horsemen skill lies in their ability to dart through the thick of the forest with nary a scratch. Though only lightly armed, they are the only cavalry in existence that fares better in the woods than on open ground."
+msgstr ""
+
+#. [unit_type]: id=Elvish Citizen, race=elf
+#: Age_of_Peasants/units/elves/Elvish_Citizen.cfg:4
+msgid "Elvish Citizen"
+msgstr ""
+
+#. [unit_type]: id=Elvish Citizen, race=elf
+#: Age_of_Peasants/units/elves/Elvish_Citizen.cfg:19
+msgid "Although elves are not warlike by nature their natural grace ensures that even untrained they have talent for swords and bows. However, if you are hurling citizens at your foes, you’re clearly out of superior forces."
+msgstr ""
+
+#. [female]
+#: Age_of_Peasants/units/elves/Elvish_Citizen.cfg:90
+msgid "female^Elvish Citizen"
+msgstr ""
+
+#. [unit_type]: id=Nobleman, race=human
+#: Age_of_Peasants/units/humans/Loyalist_Nobleman.cfg:4
+msgid "Nobleman"
+msgstr ""
+
+#. [unit_type]: id=Nobleman, race=human
+#: Age_of_Peasants/units/humans/Loyalist_Nobleman.cfg:17
+msgid "Noblemen lead a life of relative luxury and do not shy away to show this to the world. The privilege to carry weapons and their choreographic movements have attracted quite a number of looks from court ladies."
+msgstr ""
+
+#. [unit_type]: id=Squire, race=human
+#: Age_of_Peasants/units/humans/Horse_Squire.cfg:4
+msgid "Squire"
+msgstr ""
+
+#. [unit_type]: id=Squire, race=human
+#: Age_of_Peasants/units/humans/Horse_Squire.cfg:18
+msgid "Squires are apprentices to knights, who often hail from either wealthy families or the eastern horse clans. They practise fighting with a wooden lance, but have yet to master the fearsome charges of their mentors."
+msgstr ""
+
+#. [unit_type]: id=Initiate, race=human
+#: Age_of_Peasants/units/humans/Mage_Initiate.cfg:4
+msgid "Initiate"
+msgstr ""
+
+#. [unit_type]: id=Initiate, race=human
+#: Age_of_Peasants/units/humans/Mage_Initiate.cfg:18
+msgid ""
+"Only few individuals of the human race are capable of manipulating magic, and even fewer are recognized and trained as mages. Fresh initiates may feel intimidated by the studies still ahead of them, but these are unremarkable in comparison to what they already achieved.\n"
+"\n"
+"Physically frail, and lacking familiarity with combat, initiates do possess certain arts which are of great utility in battle."
+msgstr ""
+
+#. [female]
+#: Age_of_Peasants/units/humans/Mage_Initiate.cfg:75
+msgid "female^Initiate"
+msgstr ""
+
+#. [unit_type]: id=Pilferer, race=human
+#: Age_of_Peasants/units/humans/Outlaw_Pilferer.cfg:4
+msgid "Pilferer"
+msgstr ""
+
+#. [unit_type]: id=Pilferer, race=human
+#: Age_of_Peasants/units/humans/Outlaw_Pilferer.cfg:18
+msgid "Pilferers are impoverished individuals who can be found in the back alleys of any town. They subsist by petty crime and day labor, and even rats are always a welcome meal in such conditions."
+msgstr ""
+
+#. [unit_type]: id=Pilferer, race=human
+#: Age_of_Peasants/units/humans/Outlaw_Pilferer.cfg:52
+msgid "female^Pilferer"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Woodcutter, race=dwarf
+#: Age_of_Peasants/units/dwarves/Dwarvish_Woodcutter.cfg:4
+msgid "Dwarvish Woodcutter"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Woodcutter, race=dwarf
+#: Age_of_Peasants/units/dwarves/Dwarvish_Woodcutter.cfg:22
+msgid "For dwarves, lumber is irreplacable in its function as fuel and construction material. Woodcutters are responsible for retrieving it from the forests of the overworld."
+msgstr ""
+
+#. [unit_type]: id=Dark Initiate, race=human
+#: Age_of_Peasants/units/undead/Necro_Dark_Initiate.cfg:4
+msgid "Dark Initiate"
+msgstr ""
+
+#. [unit_type]: id=Dark Initiate, race=human
+#: Age_of_Peasants/units/undead/Necro_Dark_Initiate.cfg:18
+msgid ""
+"Curiosity is the mother of scholarship and thus the highest virtue of the order of magi. However, not all students find the golden mean, and some succumb to the temptation of practising the dark arts at night.\n"
+"\n"
+"The resulting lack of sleep exhausts them so much, that they become even weaker than lawful initiates."
+msgstr ""
+
+#. [female]
+#: Age_of_Peasants/units/undead/Necro_Dark_Initiate.cfg:100
+msgid "female^Dark Initiate"
+msgstr ""
+
+#. [unit_type]: id=Walking Skeleton, race=undead
+#: Age_of_Peasants/units/undead/Skeleton_Walking.cfg:4
+msgid "Walking Skeleton"
+msgstr ""
+
+#. [unit_type]: id=Walking Skeleton, race=undead
+#: Age_of_Peasants/units/undead/Skeleton_Walking.cfg:21
+msgid "With enough experience, a necromancer becomes independent from freshly killed corpses. Fully rotten skeletons are not only excellent war material, but are also far easier to attain."
+msgstr ""
+
+#. [unit_type]: id=Soul, race=undead
+#: Age_of_Peasants/units/undead/Spirit_Soul.cfg:4
+msgid "Soul"
+msgstr ""
+
+#. [unit_type]: id=Soul, race=undead
+#: Age_of_Peasants/units/undead/Spirit_Soul.cfg:17
+msgid "Some souls cannot find rest and are damned to aimlessly wander this world for eternity. Often they belong to inexperienced Dark Adepts, who tried to cheat their premature death. And succeeded. Regrettably."
+msgstr ""
+
+#. [era]: id=default_l0_era
+#: Age_of_Peasants/era.cfg:5
+msgid "Default L0 Era"
+msgstr ""
+
+#. [era]: id=default_l0_era
+#: Age_of_Peasants/era.cfg:6
+msgid "This era features level one leaders with level zero recruits. Consists of modified Loyalist, Rebel, Knalgan and Undead factions. Not considered balanced."
+msgstr ""
+

@@ -1,0 +1,142 @@
+#textdomain wesnoth-Halfelven
+[unit_type]
+    id=HALEL_guardsergeant
+    name= _ "Guard sergeant"
+    {SHARED_RACE_CHARACTERISTICS_GUARDIAN}
+    usage="mixed fighter"
+    cost=48
+    hitpoints=70
+    movement=5
+    experience=150
+    level=3
+    advances_to=null
+	{AMLA_DEFAULT}
+    [abilities]
+        {ABILITY_STEADFAST}
+    [/abilities]
+    [attack]
+        name=spear
+        description= _ "alu-bronze spear"
+        icon=attacks/spear-guard-bronze.png
+        type=pierce
+        range=melee
+        damage=9
+        number=5
+        [specials] 
+        [/specials]
+    [/attack]
+    [attack]
+        name=javelin
+        description=_"alu-bronze javelin"
+        icon=attacks/javelin-bronze.png
+        type=impact
+        range=ranged
+        damage=13
+        number=2
+    [/attack]
+    [portrait]
+        size=400
+        side="left"
+        mirror="false"
+        image="portraits/kohen.png"
+    [/portrait]
+    [portrait]
+        size=400
+        side="right"
+        mirror="true"
+        image="portraits/kohen.png"
+    [/portrait]
+    halo="halo/troop-l3.png"
+    image="units/halfelven/levites/levite-3a.png"
+    profile="portraits/kohen.png"
+    description= _ "With stout hearts the steadfast Halfelven Lanceguardians will hold ground no matter what. Their spears are forged from special alu-bronze leaving many wounds in the attackers."
+    die_sound={SOUND_LIST:HUMAN_DIE}
+    get_hit_sound={SOUND_LIST:HUMAN_HIT}
+    {DEFENSE_ANIM_RANGE "units/halfelven/levites/levite-3a_defend-1.png" "units/halfelven/levites/levite-3a_defend-2.png" {SOUND_LIST:HUMAN_HIT} melee }
+    {DEFENSE_ANIM_RANGE "units/halfelven/levites/levite-3a_defend-1.png" "units/halfelven/levites/levite-3a_defend-2.png" {SOUND_LIST:HUMAN_HIT} ranged }
+    [idle_anim]
+        {STANDARD_IDLE_FILTER}
+        start_time=0
+        [frame]
+            duration=500
+            image="units/halfelven/levites/levite-3a_idle.png"
+        [/frame]
+        [frame]
+            duration=250
+            image="units/halfelven/levites/levite-3a.png"
+        [/frame]
+        [frame]
+            duration=500
+            image="units/halfelven/levites/levite-3a_idle.png"
+        [/frame]
+         [frame]
+            duration=250
+            image="units/halfelven/levites/levite-3a.png"
+        [/frame]
+        [frame]
+            duration=500
+            image="units/halfelven/levites/levite-3a_idle.png"
+        [/frame]
+    [/idle_anim]
+    [attack_anim]
+        [filter_attack]
+            name=sword
+        [/filter_attack]
+
+        start_time=-200
+
+        [frame]
+            image="units/halfelven/levites/levite-3a.png:300"
+        [/frame]
+
+        {SOUND:HIT_AND_MISS {SOUND_LIST:SWORD_SWISH} {SOUND_LIST:MISS} -100}
+    [/attack_anim]
+    [attack_anim]
+        [filter_attack]
+            name=spear
+        [/filter_attack]
+        hits=no
+        [frame]
+            begin=-50
+            end=100
+            image="units/halfelven/levites/levite-3a_attack.png"
+            sound=miss-1.ogg
+        [/frame]
+    [/attack_anim]
+    [attack_anim]
+        [filter_attack]
+            name=spear
+        [/filter_attack]
+        hits=yes
+        [frame]
+            begin=-50
+            end=100
+            image="units/halfelven/levites/levite-3a_attack.png"
+            sound=sword-1.ogg
+        [/frame]
+    [/attack_anim]
+    [attack_anim]
+        [filter_attack]
+            name=javelin
+        [/filter_attack]
+        missile_start_time=-150
+        [missile_frame]
+            duration=150
+            image="projectiles/spear-n.png"
+            image_diagonal="projectiles/spear-ne.png"
+        [/missile_frame]
+        start_time=-350
+        [frame]
+            image="units/halfelven/levites/levite-3a_defend-1.png:100"
+            sound={SOUND_LIST:THROW}
+        [/frame]
+        {SOUND:HIT_AND_MISS spear.ogg spear-miss.ogg -50}
+        [frame]
+            image="units/halfelven/levites/levite-3a_attack.png:100"
+        [/frame]
+        [frame]
+            image="units/halfelven/levites/levite-3a.png:50"
+        [/frame]
+    [/attack_anim]
+[/unit_type]
+

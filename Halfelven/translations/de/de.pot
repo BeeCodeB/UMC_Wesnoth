@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2020-09-07 17:29 UTC\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [unit_type]: id=Elvish Healer, race=elf
+#: Age_of_Peasants/units/elves/Elvish_Healer.cfg:5
+msgid "female^Elvish Healer"
+msgstr "Elfenheilerin"
+
+#. [unit_type]: id=Elvish Healer, race=elf
+#: Age_of_Peasants/units/elves/Elvish_Healer.cfg:19
+msgid "Some elves are unusually close to their faerie nature, which enables them to control magic consciously. On the battlefield, they use their skills to heal wounds and summon plants to their aid."
+msgstr "Einige Elfen sind außerordentlich nahe an ihrer Feennatur, was ihnen ermöglicht, Magie bewusst zu kontrollieren. Auf dem Schlachtfeld benutzen sie ihre Fähigkeiten, um Wunden zu heilen und Pflanzen zu ihrer Hilfe beschwören."
+
+#. [unit_type]: id=Elvish Horseman, race=elf
+#: Age_of_Peasants/units/elves/Elvish_Horseman.cfg:4
+msgid "Elvish Horseman"
+msgstr "Elfenreiter"
+
+#. [unit_type]: id=Elvish Horseman, race=elf
+#: Age_of_Peasants/units/elves/Elvish_Horseman.cfg:21
+msgid "The true skill of elvish horsemen skill lies in their ability to dart through the thick of the forest with nary a scratch. Though only lightly armed, they are the only cavalry in existence that fares better in the woods than on open ground."
+msgstr "Das wahre Können der Elfenreiter liegt in ihrer Fähigkeit, ohne auch nur einen Kratzer durch das Dickicht des Waldes zu flitzen. Zwar nur leicht bewaffnet, sind sie die einzige existierende Kavallerie, welche im Gehölz besser zurechtkommt als auf freiem Feld."
+
+#. [unit_type]: id=Elvish Citizen, race=elf
+#: Age_of_Peasants/units/elves/Elvish_Citizen.cfg:4
+msgid "Elvish Citizen"
+msgstr "Elfenbürger"
+
+#. [unit_type]: id=Elvish Citizen, race=elf
+#: Age_of_Peasants/units/elves/Elvish_Citizen.cfg:19
+msgid "Although elves are not warlike by nature their natural grace ensures that even untrained they have talent for swords and bows. However, if you are hurling citizens at your foes, you’re clearly out of superior forces."
+msgstr "Auch wenn Elfen nicht von Natur aus kriegerisch sind, stellt ihre natürliche Anmut sicher, dass selbst die Ungeübten ein Talent für Schwerter und Bögen besitzen. Wer jedoch Elfenbürger auf das Schlachtfeld bringt, hat eindeutig keine stärkeren Kräfte mehr zu bieten."
+
+#. [female]
+#: Age_of_Peasants/units/elves/Elvish_Citizen.cfg:90
+msgid "female^Elvish Citizen"
+msgstr "Elvenbürgerin"
+
+#. [unit_type]: id=Nobleman, race=human
+#: Age_of_Peasants/units/humans/Loyalist_Nobleman.cfg:4
+msgid "Nobleman"
+msgstr "Edelmann"
+
+#. [unit_type]: id=Nobleman, race=human
+#: Age_of_Peasants/units/humans/Loyalist_Nobleman.cfg:17
+msgid "Noblemen lead a life of relative luxury and do not shy away to show this to the world. The privilege to carry weapons and their choreographic movements have attracted quite a number of looks from court ladies."
+msgstr "Edelmänner führen ein Leben des relativen Luxus und scheuen nicht davor zurück, dies der Welt zu zeigen. Das Privileg, Waffen zu tragen und ihr tänzerisches Auftreten zogen nicht wenige Blicke von Hoffräulein an."
+
+#. [unit_type]: id=Squire, race=human
+#: Age_of_Peasants/units/humans/Horse_Squire.cfg:4
+msgid "Squire"
+msgstr "Knappe"
+
+#. [unit_type]: id=Squire, race=human
+#: Age_of_Peasants/units/humans/Horse_Squire.cfg:18
+msgid "Squires are apprentices to knights, who often hail from either wealthy families or the eastern horse clans. They practise fighting with a wooden lance, but have yet to master the fearsome charges of their mentors."
+msgstr "Knappen sind Lehrlinge von Rittern, die oft aus entweder wohlhabenden Familien oder den östlichen Reitersippen stammen. Sie üben das Kämpfen mit einer Holzlanze, müssen aber noch die furchteinflösenden Anstürme ihrer Mentoren meistern."
+
+#. [unit_type]: id=Initiate, race=human
+#: Age_of_Peasants/units/humans/Mage_Initiate.cfg:4
+msgid "Initiate"
+msgstr "Initiierter"
+
+#. [unit_type]: id=Initiate, race=human
+#: Age_of_Peasants/units/humans/Mage_Initiate.cfg:22
+msgid ""
+"Only few individuals of the human race are capable of manipulating magic, and even fewer are recognized and trained as mages. Fresh initiates may feel intimidated by the studies still ahead of them, but these are unremarkable in comparison to what they already achieved.\n"
+"\n"
+"Physically frail, and lacking familiarity with combat, initiates do possess certain arts which are of great utility in battle."
+msgstr "Nur wenige Individuen der menschlichen Rasse sind fähig, Magie zu manipulieren, und gar weniger werden erkannt und als Magier ausgebildet. Frisch Initiierte mögen sich von den Studien noch vor ihnen eingeschüchtert fühlen, doch diese sind unauffällig im Vergleich zu dem, was sie bereits geschafft haben.\n"
+"\n"
+"Ihre vielen Studien lassen ihnen keine Zeit, ihren Körper zu trainieren. Zudem können sie einer direkten Konfrontation nichts abgewinnen, sind aber trotzdem in der Lage sich in der Not mittels ihrer magischen Fähigkeiten zu verteidigen."
+
+#. [female]
+#: Age_of_Peasants/units/humans/Mage_Initiate.cfg:88
+msgid "female^Initiate"
+msgstr "Initiierte"
+
+#. [unit_type]: id=Pilferer, race=human
+#: Age_of_Peasants/units/humans/Outlaw_Pilferer.cfg:4
+msgid "Pilferer"
+msgstr "Langfinger"
+
+#. [unit_type]: id=Pilferer, race=human
+#: Age_of_Peasants/units/humans/Outlaw_Pilferer.cfg:18
+msgid "Pilferers are impoverished individuals who can be found in the back alleys of any town. They subsist by petty crime and day labor, and even rats are always a welcome meal in such conditions."
+msgstr "Langfinger sind verarmte Individuen, die in den Hintergassen jeder Stadt zu finden sind. Sie überleben durch Kleinverbrechen und Tagelohn, und sogar Ratten sind in solchen Zuständen immer eine willkommene Mahlzeit."
+
+#. [unit_type]: id=Pilferer, race=human
+#: Age_of_Peasants/units/humans/Outlaw_Pilferer.cfg:52
+msgid "female^Pilferer"
+msgstr "Langfinger"
+
+#. [unit_type]: id=Dwarvish Woodcutter, race=dwarf
+#: Age_of_Peasants/units/dwarves/Dwarvish_Woodcutter.cfg:4
+msgid "Dwarvish Woodcutter"
+msgstr "Holzfäller"
+
+#. [unit_type]: id=Dwarvish Woodcutter, race=dwarf
+#: Age_of_Peasants/units/dwarves/Dwarvish_Woodcutter.cfg:22
+msgid "For dwarves, lumber is irreplacable in its function as fuel and construction material. Woodcutters are responsible for retrieving it from the forests of the overworld."
+msgstr "Für Zwerge ist Holz unersetzbar in seiner Funktion als Brennstoff und Baumaterial. Holzfäller sind dafür verantwortlich, es aus den Wäldern der Überwelt zu beschaffen."
+
+#. [unit_type]: id=Dark Initiate, race=human
+#: Age_of_Peasants/units/undead/Necro_Dark_Initiate.cfg:4
+msgid "Dark Initiate"
+msgstr "Dunkler Initiierter"
+
+#. [unit_type]: id=Dark Initiate, race=human
+#: Age_of_Peasants/units/undead/Necro_Dark_Initiate.cfg:18
+msgid ""
+"Curiosity is the mother of scholarship and thus the highest virtue of the order of magi. However, not all students find the golden mean, and some succumb to the temptation of practising the dark arts at night.\n"
+"\n"
+"The resulting lack of sleep exhausts them so much, that they become even weaker than lawful initiates."
+msgstr "Neugier ist die Mutter der Wissenschaft und somit die höchste Tugend des Ordens der Magier. Jedoch finden nicht alle Schüler die Goldene Mitte, und einige erliegen der Versuchung, nachts die Dunklen Künste zu üben.\n"
+"\n"
+"Der daraus folgende Schlafmangel erschöpft sie so sehr, dass sie sogar noch schwächer werden als redliche Initiierte."
+
+#. [female]
+#: Age_of_Peasants/units/undead/Necro_Dark_Initiate.cfg:100
+msgid "female^Dark Initiate"
+msgstr "Dunkle Initiierte"
+
+#. [unit_type]: id=Walking Skeleton, race=undead
+#: Age_of_Peasants/units/undead/Skeleton_Walking.cfg:4
+msgid "Walking Skeleton"
+msgstr "Wandelndes Skelett"
+
+#. [unit_type]: id=Walking Skeleton, race=undead
+#: Age_of_Peasants/units/undead/Skeleton_Walking.cfg:21
+msgid "With enough experience, a necromancer becomes independent from freshly killed corpses. Fully rotten skeletons are not only excellent war material, but are also far easier to attain."
+msgstr "Mit genug Erfahrung wird ein Necromant unabhängig von frisch getöteten Leichen. Vollständig verrottete Skelette sind nicht nur exzellentes Kriegsmaterial, sondern auch viel einfacher zu erhalten."
+
+#. [unit_type]: id=Soul, race=undead
+#: Age_of_Peasants/units/undead/Spirit_Soul.cfg:4
+msgid "Soul"
+msgstr "Seele"
+
+#. [unit_type]: id=Soul, race=undead
+#: Age_of_Peasants/units/undead/Spirit_Soul.cfg:17
+msgid "Some souls cannot find rest and are damned to aimlessly wander this world for eternity. Often they belong to inexperienced Dark Adepts, who tried to cheat their premature death. And succeeded. Regrettably."
+msgstr "Einige Seelen finden keine Ruhe und sind dazu verdammt, diese Welt für alle Ewigkeit ziellos zu bewandern. Häufig gehören sie unerfahrenen Dunklen Adepten, die versuchten ihren vorzeitigen Tod zu betrügen. Und erfolgten. Bedauerlicherweise."
+
+#. [era]: id=default_l0_era
+#: Age_of_Peasants/era.cfg:5
+msgid "Default L0 Era"
+msgstr "Standart L0 Epoche"
+
+#. [era]: id=default_l0_era
+#: Age_of_Peasants/era.cfg:6
+msgid "This era features level one leaders with level zero recruits. Consists of modified Loyalist, Rebel, Knalgan and Undead factions. Not considered balanced."
+msgstr "Diese Epoche enthält Anführer der ersten Stufe mit Rekruten der nullten Stufe. Sie besteht aus modifizierten Loyalisten, Rebellen, Knalganern und Untoten. Nicht ausgeglichen."
+

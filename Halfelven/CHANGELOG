@@ -1,0 +1,87 @@
+
+
+			 CHANGELOG
+
+Halfelven, a Wesnoth faction, user made content (UMC)
+_____________________________________________________________________
+
+Version 4.1.b
+Gros and widely adjusted unit stats .. to be continued
+
+Version 4.1.a
+Continued development in Jan 2022
+Tested, adjusted, fine tuned various small things
+Cleared and beautified the code
+
+Version 3.x.y
+Various small adjustments.
+Put form development branch 1.15.x up to stable branch 1.16.1.
+
+Version 2.x.y
+Tested, adjusted, fine tuned various unit points.
+
+Version 1.15.a
+ 	= Major overhaul*) : adaptation to Wesnoth 1.15
+    - new unit stats and recruit lists etc.pp.
+    - https://forums.wesnoth.org/viewtopic.php?t=45560
+
+Description:
+Halfelven are a unique stand alone faction of the classical era. Their homeland lies in south-western parts of the Great Continent (Irdya), south of Wesnoth beyond the Black River. It is a maritime-arcadian country with hills, meadows, shores, ashlar ramparts, incredible metalworks and artifacts. Their ranks feature liminal units, leaders, paramedics, weapon- and armour-bearers, shieldmaidens, tame scouting birds, war-chariots, and golems.
+
+History:
+The history of the Halfelven bridges the Timeline of Wesnoth with Prehistory which has come through ancient legends like in 'A Song of Fire'. However, the histroy of the Halfelven has its origins in the eastern parts of the Great Continent Irdya.
+
+Prehistory:
+In prehistory, when the first civilizations and empires got established and the Great Continent began to be settled by dwarves, elves , humans, and other races, around 20.000 BW, a group split from the Elves to avoid Tithanya's seductive faerie magic. Tithanya from the hidden folk was married to king El-Teleryon, ruler of the Lins-Elens elves, and her descendants - mostly the female ones - had a strong connection to the magical faerie plane. The group among those elves that later came to be known as the Half-Elven or Halfelven, they split from the Elfs to avoid being tainted by Faerie magic and set themselves apart. Over time, their artists, engineers, and scientists became skillful in arcane production methods. But as a race, they stood somewhat pure and simple. Therefor, halfelven are not enwrought by magic like elfs, faeries, and wose. As a consequence, they do not live as long and are less vulnerable to arcane attacks: elfs have +10%, halfelven have -10% and humans have -20% vulnerability.
+
+Classical Era:
+Since the classical era, before Wesnoth was even foundet, they settled in the southern region beyond the Black River at the Sleepless Sea.
+Today, they mostly live as deep-read merchants, researchers, teachers, artists, navigators, astronomers, writers, in towns, cities and ports.
+Until today, there are many legendary epics, songs, pieces of rumor and stories about unions of halfelven and humans and their descendants, but it is not clear if these stories are true. What one can say is that halfelven do not have pointy ears like the elves and tend to be taller and in general prefer sea and shore over forest.
+
+Region of Origin:
+In prehistorical times, they originated from the isles and shores of the ocean in the far east and later settled near the coastal Deva Mountains of the Arajunna peninsular. Due to human led wars and famines, they wandered westward along the coastlines to a fertile land between big river streams that became drought-stricken, later. Wandering through savannas and steppes and along the coastline, eventually they settled in the southern region beyond the Black River at the shores of the Restless Sea underneath the Mountains of Peril that has many springs and meadow valleys.
+Today, they mostly live as deep-read sea-merchants, ship builders, researchers, teachers, artists, sea-navigators, astronomers, writers, mathematicians, in towns, cities and ports, and throughout all of Wesnoth, too.
+
+Arcane Arts:
+The Halfelven traditionally fight with arcane-hardened light alu-bronze aloy weaponry and armour, for iron is regarded as inferior. Among the Elves, they are renowned for their arcane metal arts and are considered the best weapon smiths, for elfs suffer if they get in contact with iron.
+
+Golems:
+In Wesnoth, today, halfelven are best known for their Golems, robot-like guardians animated by programming code on parchment placed inside their construction. They are slow and sturdy but tend to wear out over time.
+
+The Faction:
+Lacking pugnacity, they defend towns and settlements and use terrain characteristics for tactical retaliation and hit and run tactics at dawn or dusk. They have the alignment liminal which gives units -25% nerf at night and -25% at day, and +-0% at dusk/dawn.
+However, they rely on careful use of villages, healers, leaders and coordinated strikes around (liminal) dusk or dawn.
+The slow but mighty mechanical robot like golems protect against all night creatures for their alignment is neutral.
+In general, units tend to be costlier than average but level up a bit quicker due to their surpassing intelligence and sophistication (Trait intelligent as 'musthave'). Among them are leaders, paramedics, weapon- and armour-bearers, tame scouting birds, war-chariots, and protective golems.
+
+UNIT STATS
+
+Default + Dunefolk
+
+
+            L0  L1  L2  L3  L4  ∑   |recuits
+Drakes      0    6   9   7   0  22  |6
+Dunefolk    0    7  13  12   0  32  |7
+Knalgans    0    8   8   7   0  23  |8
+Loyalists   0    8  13  14   2  37  |8
+Northerners 1    8   8   5   0  22  |7
+Rebels      0    7  12  13   2  34  |7
+Undead      2    7   8   7   0  24  |7
+Halfelven   3    8  15  13   0  39  |7
+---------------------------------------
+mean       .4    7  10   9  .6  28  |7
+
+_____________________________________________________________________
+Version 1.8.9
+    = Beta release on Wesnoth 1.14.5 server (Sept. 2018)
+
+Version 1.8.4
+    = RC3 release on Wesnoth version 1.13.14 server
+
+Version 1.8.3a
+ 	= New coceptual setup*)
+     - Descriptive Synopsis: Halfelven
+The Halfelven are an ancient set aside faction from the southern side of the Black River. Their homeland is an arcadian country with hills, meadows, shores, ashlar ramparts, incredible metalworks and artifacts of arcane-hardened bronze. Lacking pugnacity, Halfelven units are relatively cheap and rather weak but ready to survive in competitive selection. They generally level up quickly due to their superior intelligence and sophistication. They feature liminal units that coordinate attacks at dawn or dusk around leaders and tactically use terrain fatures to prevail in fights. Among them are paramedics, slingers, spearmen and -women, male and female leaders, phoenix scouting birds, and protective golems.
+_____________________________________________________________________
+*) Initially released End of April, 2018 for Wesnoth_1.13.14 (1.14 RC3)
